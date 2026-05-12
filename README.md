@@ -14,3 +14,9 @@ Mission 4GB is a collection of entertainment, knowledge, internet and utility in
 - 🤖 Offline AI: Lightweight LLMs (like TinyLlama) or basic AI scripts that run locally.
 - 🔥 Survival Knowledge: First aid, navigation, and wilderness survival documentation.
 - 📖 Dictionary: Full-text offline linguistic and technical references.
+
+
+# Getting Started
+1. Format your drive: Ensure your 4GB+ drive is formatted to FAT32 or exFAT for maximum compatibility.
+2. Clone the Repo: ``
+3. Transfer: Copy the contents to the root of your physical device.
