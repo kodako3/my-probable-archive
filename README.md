@@ -18,5 +18,8 @@ Mission 4GB is a collection of entertainment, knowledge, internet and utility in
 
 # Getting Started
 1. Format your drive: Ensure your 4GB+ drive is formatted to FAT32 or exFAT for maximum compatibility.
-2. Clone the Repo: ``
-3. Transfer: Copy the contents to the root of your physical device.
+2. Clone the Repo:
+```
+git clone https://github.com/kodako3/my-probable-archive.git
+```
+4. Transfer: Copy the contents to the root of your physical device.
