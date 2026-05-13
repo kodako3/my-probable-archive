@@ -1,7 +1,7 @@
 # my-probable-archive
 
 # What is?
-Mission 4GB is a collection of entertainment, knowledge, internet and utility into a single physical unit like a pendrive, sdcard, or any store device. Under 4GB.
+My probable archive is a collection of entertainment, knowledge, internet and utility into a single physical unit like a pendrive, sdcard, or any store device. Under 4GB.
 
 # What inside?
 - 📚 E-books: A collection of classics, technical manuals, and reference guides.
